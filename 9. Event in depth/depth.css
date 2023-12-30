@@ -1,0 +1,62 @@
+:root{
+    --col-1:#000;
+    --col-2:#bc5050;
+    --col-3:#38c04c;
+    --col-4:#215ec0;
+    --col-5:#df2dbe;
+    --col-6:#3b2929;
+    --col-7:#a0c231;
+    --col-8:#edc709;
+    --col-9:#c4e974;
+    --col-10:#06e7d1;
+}
+
+.prop1{
+    background-color: var(--col-1);
+    color: white;
+}
+
+.prop2{
+    background-color: var(--col-2);
+    color: white;
+}
+
+.prop3{
+    background-color: var(--col-3);
+    color: white;
+}
+
+.prop4{
+    background-color: var(--col-4);
+    color: white;
+}
+
+.prop5{
+    background-color: var(--col-5);
+    color: white;
+}
+
+.prop6{
+    background-color: var(--col-6);
+    color: white;
+}
+
+.prop7{
+    background-color: var(--col-7);
+    color: white;
+}
+
+.prop8{
+    background-color: var(--col-8);
+    color: white;
+}
+
+.prop9{
+    background-color: var(--col-9);
+    color: white;
+}
+
+.prop10{
+    background-color: var(--col-10);
+    color: white;
+}
